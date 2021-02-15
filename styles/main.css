@@ -185,6 +185,10 @@ body {
         width: 27%;
     }
 
+    .testimonial + .testimonial {
+        margin-left: 10px;
+    }
+
     .customer__testimonial {
         min-height: 150px;
     }
