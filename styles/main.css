@@ -190,15 +190,15 @@ body {
     }
 
     .customer__testimonial {
-        min-height: 150px;
+        min-height: 100px;
     }
 
     .testimonial-two {
-        margin-top: 100px;
+        margin-top: 50px;
     }
 
     .testimonial-three{
-        margin-top: 200px;
+        margin-top: 100px;
     }
 }
 
